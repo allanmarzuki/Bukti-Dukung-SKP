@@ -30,7 +30,7 @@ Aktivitas pengembangan dapat diverifikasi melalui commit [private]
 
 ![Dashboard BKPSDM](https://raw.githubusercontent.com)
 > *Keterangan: Tampilan dashboard admin untuk pengelolaan data pegawai.*
-!(assets/dashboard.png)
+!(/assets/dashboard.png)
 
 ## 5. Kendala dan Solusi
 - **Kendala**: Migrasi data lama dari format Excel ke database SQL.
