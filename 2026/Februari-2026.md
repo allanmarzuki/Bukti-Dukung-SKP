@@ -26,11 +26,11 @@ Aktivitas pengembangan dapat diverifikasi melalui commit [private]
 
 ## 4. Tampilan Visual (Screenshot)
 *Berikut adalah tampilan antarmuka yang telah diimplementasikan:*
-!(./assets/landing.png)
+!(../assets/landing.png)
 
 ![Dashboard BKPSDM](https://raw.githubusercontent.com)
 > *Keterangan: Tampilan dashboard admin untuk pengelolaan data pegawai.*
-![Dashboard](./assets/dashboard.png)
+![Dashboard](../assets/dashboard.png)
 
 ## 5. Kendala dan Solusi
 - **Kendala**: Sinkronisasi data backend dengan UI dashboard
