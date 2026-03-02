@@ -33,8 +33,8 @@ Aktivitas pengembangan dapat diverifikasi melalui commit [private]
 ![Dashboard](./assets/dashboard.png)
 
 ## 5. Kendala dan Solusi
-- **Kendala**: Migrasi data lama dari format Excel ke database SQL.
-- **Solusi**: Membuat script migrasi otomatis menggunakan Python untuk meminimalisir kesalahan input.
+- **Kendala**: Sinkronisasi data backend dengan UI dashboard
+- **Solusi**: Membuat jeda waktu (delay) agar mengurangi beban BE
 
 ---
 *Dibuat oleh:*
