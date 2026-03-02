@@ -26,7 +26,7 @@ Aktivitas pengembangan dapat diverifikasi melalui commit [private]
 
 ## 4. Tampilan Visual (Screenshot)
 *Berikut adalah tampilan antarmuka yang telah diimplementasikan:*
-!(../assets/landing.png)
+![Landing Page BKPSDM](../assets/landing.png)
 
 ![Dashboard BKPSDM](https://raw.githubusercontent.com)
 > *Keterangan: Tampilan dashboard admin untuk pengelolaan data pegawai.*
