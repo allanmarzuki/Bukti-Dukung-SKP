@@ -19,7 +19,7 @@ Penyusunan Tambahan Penghasilan Pegawai di BKPSDM rutin setiap bulan:
 | :--- | :--- | :--- |
 | Aplikasi | Simpeg Kota Mataram & Ekinerja | Teroptimasi |
 | Data | Presensi & Nilai Ekinerja | 100% |
-| Bulan Ke- | 5 (Maret)| Selesai |
+| Bulan Ke- | 3 (Maret)| Selesai |
 
 ### Dokumentasi Progres 
 Aktivitas pekerjaan dapat diakses pada dokumentasi tangkapan layar.
